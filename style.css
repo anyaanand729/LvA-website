@@ -16,3 +16,45 @@ body{
 #table{
     padding-left: 5px;
 }
+#found{
+    padding-top: 10px;
+}
+#company{
+    padding-left: 30px;
+}
+p{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+#first{
+    padding-left: 15px;
+}
+#second{
+    padding-left: 15px;
+}
+#third{
+    padding-left: 15px;
+}
+#margins_education{
+    padding-top: 15px;
+    padding-left: 45px;
+    padding-bottom: 80px;
+}
+#margins_research{
+    padding-top:15px;
+    padding-left: 45px;
+    padding-bottom: 80px;
+}
+
+#margin_duo{
+    padding-top:15px;
+    padding-left: 45px;
+    padding-bottom: 100px;
+}
+
+h1{
+    padding-left:20px;
+}
+#bottom_info{
+    padding-left: 25px
+}
