@@ -1,0 +1,18 @@
+
+body{
+    background-color: #e1c39e;
+}
+#bigTitle{
+    text-align: center;
+    font-size: 100px;
+}
+#nexttext{
+    font-size: 50px
+}
+
+#content{
+    font-size: 30px
+}
+#table{
+    padding-left: 5px;
+}
