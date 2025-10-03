@@ -3,8 +3,12 @@
 <head>
     <link rel="stylesheet" href="style.css">
     <script src="index.js"></script>
+    <meta charset="UTF-8">
 </head>
-<body>
+<body tag id="entire">
+<div >
+    <button onclick="changeTime()" tag id="changeDay">🌙</button>
+</div>
     <h1 tag id = "bigTitle">
             Louis von Ahn
     </h1>
@@ -26,9 +30,16 @@
         </div>
     </div>
 <div class="slideshow-container">
-   <img src="LVA.1png" tag id="images" height = "400" width="400" alt="Image 1 of 4"/>
-    <a class="prev" onclick="plusImage()">&#10094;</a>
-    <a class="next" onclick="minusImage()">&#10095;</a>
+   <img src="LVA1.png" tag id="images" height = "400" width="400" alt="Image 1 of 4"/>
+    <p tag id = "cap">Image 1 of 4</p>
+    <div tag id="arrows">
+    <div tag id="leftClick">
+        <button onclick="minusImage()" tag id="lefty">◀️</button>
+    </div>
+    <div tag id="rightClick">
+        <button onclick="plusImage()" tag id="righty">▶️</button>
+    </div>
+    </div>
 </div>
 
 
