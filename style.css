@@ -103,3 +103,9 @@ h1{
 #rightClick{
     float:right;
 }
+
+.darkMode{
+    a{
+        color: #47ff00;
+    }
+}

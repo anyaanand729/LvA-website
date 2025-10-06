@@ -26,6 +26,7 @@ function displayImage(){
 }
 let j=0;
 function changeTime(){
+    document.body.classList.toggle("darkMode");
     if(j===0){
         document.getElementById("entire").style.color="white";
         document.getElementById("entire").style.backgroundColor="black";
@@ -38,6 +39,7 @@ function changeTime(){
         document.getElementById("entire").style.backgroundColor="#e1c39e";
         document.getElementById("changeDay").innerHTML="🌙";
         document.getElementById("changeDay").style.backgroundColor="black";
+
         j=0;
     }
 
