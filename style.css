@@ -13,9 +13,12 @@ body{
 #bigTitle{
     text-align: center;
     font-size: 100px;
+    font-weight: bold;
 }
 #nexttext{
-    font-size: 50px
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 70px;
 }
 
 #content{
