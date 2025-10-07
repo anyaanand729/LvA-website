@@ -25,43 +25,42 @@ body{
     font-size: 18px
 }
 #table{
-    padding-left: 5px;
-    float: right;
-    margin-right: 8%;
+    padding-right: 150px;
 }
 #found{
     padding-top: 10px;
 }
 #company{
-    padding-left: 30px;
+    padding-top: 10px;
+    padding-left: 60px;
 }
 p{
     margin-top: 15px;
     margin-bottom: 0;
 }
 #first{
-    padding-left: 15px;
+    padding-left: 35px;
 }
 #second{
-    padding-left: 15px;
+    padding-left: 35px;
 }
 #third{
-    padding-left: 15px;
+    padding-left: 35px;
 }
 #margins_education{
-    padding-top: 15px;
-    padding-left: 45px;
+    padding-top: 20px;
+    padding-left: 50px;
     padding-bottom: 80px;
 }
 #margins_research{
-    padding-top:15px;
-    padding-left: 45px;
+    padding-top:20px;
+    padding-left: 50px;
     padding-bottom: 80px;
 }
 
 #margin_duo{
-    padding-top:15px;
-    padding-left: 45px;
+    padding-top:20px;
+    padding-left: 50px;
     padding-bottom: 100px;
 }
 
@@ -90,15 +89,12 @@ h1{
 #leftClick{
     float:left;
 }
-#lefty{
+#lefty, #righty{
     background-color: transparent;
     border: none;
     font-size: 20px;
-}
-#righty{
-    background-color: transparent;
-    border: none;
-    font-size: 20px;
+    margin: auto;
+    height: fit-content;
 }
 #rightClick{
     float:right;
