@@ -22,17 +22,18 @@ body{
     font-size: 40px
 }
 #stuffinit{
-    font-size: 18px
+    font-size: 22px
 }
 #table{
-    padding-right: 150px;
+    padding-right: 100px;
 }
 #found{
-    padding-top: 10px;
+    padding-top: 70px;
 }
 #company{
-    padding-top: 10px;
+    padding-top: 5px;
     padding-left: 60px;
+    padding-bottom: 80px;
 }
 p{
     margin-top: 15px;
@@ -72,7 +73,7 @@ h1{
 }
 
 #cap{
-    padding-left: 27%;
+    padding-left: 43%;
 }
 
 .slideshow-container {
